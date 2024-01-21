@@ -1,0 +1,1045 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\assets\\css\\default-skin.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\assets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\icon\\1.png",
+      "PackagePath": "staticwebassets\\assets\\icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\icon\\2.png",
+      "PackagePath": "staticwebassets\\assets\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\icon\\3.png",
+      "PackagePath": "staticwebassets\\assets\\icon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\icon\\errow.png",
+      "PackagePath": "staticwebassets\\assets\\icon\\errow.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\icon\\fb.png",
+      "PackagePath": "staticwebassets\\assets\\icon\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\icon\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\icon\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\icon\\lin(2).png",
+      "PackagePath": "staticwebassets\\assets\\icon\\lin(2).png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\icon\\tw.png",
+      "PackagePath": "staticwebassets\\assets\\icon\\tw.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\aboutimg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\aboutimg.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\banner.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\blog-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\blog-image0.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-image0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\images\\search_icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\search_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\assets\\gridtile.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\css\\closedhand.html",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\css\\closedhand.html"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\css\\layers.css",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\css\\layers.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\css\\navigation.css",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\css\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\css\\openhand.html",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\css\\openhand.html"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\css\\settings.css",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\css\\pe-icon-7-stroke.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.eot"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-strokebb1d.woff"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\fonts\\pe-icon-7-stroke\\fonts\\Pe-icon-7-stroked41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\fonts\\revicons\\revicons90c6.eot",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\fonts\\revicons\\revicons90c6.eot"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\fonts\\revicons\\revicons90c6.svg",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\fonts\\revicons\\revicons90c6.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\fonts\\revicons\\revicons90c6.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\fonts\\revicons\\revicons90c6.woff",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\fonts\\revicons\\revicons90c6.woff"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\revolution\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\revolution\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\assets\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\manage\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\css\\style.css",
+      "PackagePath": "staticwebassets\\manage\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\manage\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\manage\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\chart.js",
+      "PackagePath": "staticwebassets\\manage\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\manage\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\manage\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\manage\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\manage\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\manage\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\manage\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\manage\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\js\\template.js",
+      "PackagePath": "staticwebassets\\manage\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\manage\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\uploads\\feauture\\187316d9-de06-4c99-b77c-3d5c528fc9b82.jpg",
+      "PackagePath": "staticwebassets\\uploads\\feauture\\187316d9-de06-4c99-b77c-3d5c528fc9b82.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\uploads\\feauture\\39c6d153-f5cb-4a94-aeda-09b6932c3f41blog-image.jpg",
+      "PackagePath": "staticwebassets\\uploads\\feauture\\39c6d153-f5cb-4a94-aeda-09b6932c3f41blog-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\uploads\\feauture\\95f4eea5-55fa-416a-a523-ef914418b0c51.jpg",
+      "PackagePath": "staticwebassets\\uploads\\feauture\\95f4eea5-55fa-416a-a523-ef914418b0c51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\uploads\\feauture\\b2e44621-4798-4d7b-805c-82b011517dabblog-image.jpg",
+      "PackagePath": "staticwebassets\\uploads\\feauture\\b2e44621-4798-4d7b-805c-82b011517dabblog-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\II novbe\\Desktop\\codeimtahan\\WebApplication1\\WebApplication1\\wwwroot\\uploads\\feauture\\f115225f-818f-462f-b6b5-6a88aba37585banner2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\feauture\\f115225f-818f-462f-b6b5-6a88aba37585banner2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
